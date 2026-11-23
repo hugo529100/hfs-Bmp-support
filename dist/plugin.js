@@ -3,7 +3,8 @@
 exports.description = "BMP cached server-side support for HFS - converts BMP to JPG on the fly for preview with Show and generates thumbnails"
 exports.version = 1.3
 exports.apiRequired = 12.6
-exports.repo = "Hug3O/BMP-Support"
+exports.repo = "hugo529100/hfs-Bmp-support"
+
 exports.preview = []
 
 exports.config = {
