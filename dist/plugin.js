@@ -4,7 +4,6 @@ exports.description = "BMP cached server-side support for HFS - converts BMP to 
 exports.version = 1.3
 exports.apiRequired = 12.6
 exports.repo = "hugo529100/hfs-Bmp-support"
-
 exports.preview = []
 
 exports.config = {
